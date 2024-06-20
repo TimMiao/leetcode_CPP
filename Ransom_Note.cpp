@@ -13,18 +13,6 @@ bool canConstruct(string ransomNote, string magazine) {
     string temp_str = ransomNote;
     string mag = magazine;
     std::string temp = "";
-    // for (size_t i = 0; i < magazine.size(); ++i) {
-    //     if (std::find(magazine.begin(), magazine.end(), ransomNote[i]) 
-    //         != magazine.end()) {
-    //         temp += ransomNote[i];
-    //         remove(ransomNote.begin(), ransomNote.end(), magazine[i]);
-    //         remove(magazine.begin(), magazine.end(), magazine[i]);
-    //     }
-    //     if (ransomNote.length() == 0 || magazine.size() == 0) {
-    //         break;
-    //     }
-    //     i = 0;
-    // }
     while (ransomNote.length() > 0) {
         if (std::find(magazine.begin(), magazine.end(), ransomNote[0]) 
             != magazine.end()) {
