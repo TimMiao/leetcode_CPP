@@ -1,0 +1,7 @@
+# ninja log v6
+1	649	1752874870034072718	CMakeFiles/roman_to_integer.dir/main.cpp.o	dbfa3d82ce87b447
+651	754	1752874870683372643	roman_to_integer	9580ead249b4d283
+6	501	1752874892519709354	CMakeFiles/roman_to_integer.dir/main.cpp.o	dbfa3d82ce87b447
+501	537	1752874893014696917	roman_to_integer	9580ead249b4d283
+6	495	1752874926136424169	CMakeFiles/roman_to_integer.dir/main.cpp.o	dbfa3d82ce87b447
+495	530	1752874926625507596	roman_to_integer	9580ead249b4d283
