@@ -34,6 +34,14 @@ public:
     }
 };
 
+void deleteTree(TreeNode* root) {
+    if (root == nullptr)
+        return;
+    deleteTree(root->left);
+    deleteTree(root->right);
+    delete root;
+}
+
 int main() {
     TreeNode* root = new TreeNode(1);
     root->left = nullptr;
@@ -47,6 +55,8 @@ int main() {
     for (auto ele : final_vec){
         cout << ele << endl;
     }
+
+    deleteTree(root);
 
     return 0;
 }
