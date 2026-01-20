@@ -1,3 +1,9 @@
 # ninja log v6
-4	722	1752882109419025688	CMakeFiles/leetcode_CPP.dir/main.cpp.o	525fa1abeee3a7e4
+4	566	1768883440439854368	CMakeFiles/leetcode_CPP.dir/main.cpp.o	bb4848fd19601b3c
+7	551	1768883928123003434	CMakeFiles/leetcode_CPP.dir/Pascal_Triangle/main.cpp.o	da38e797210e794e
+7	532	1768883709789638788	CMakeFiles/leetcode_CPP.dir/Pascal's_Triangle/pascal_triangle.cpp.o	34be53cfc40b6073
 723	841	1752882110138613292	leetcode_CPP	75a7906fb93671d8
+7	607	1768883709790009495	CMakeFiles/leetcode_CPP.dir/Pascal's_Triangle/main.cpp.o	5eb009535c9fb0d3
+8	606	1768883709790243745	CMakeFiles/leetcode_CPP.dir/Palindrome_Linked_List/main.cpp.o	7a7db135a0a3b29a
+7	457	1768883928122650643	CMakeFiles/leetcode_CPP.dir/Pascal_Triangle/pascal_triangle.cpp.o	ce3bbfeadbf3cfdc
+8	723	1768884363000103976	CMakeFiles/leetcode_CPP.dir/Climbing_Stairs/ClimbingStairs.cpp.o	2657b15ce134bc5f
