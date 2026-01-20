@@ -52,7 +52,7 @@ build cmake_object_order_depends_target_leetcode_CPP: phony || .
 build CMakeFiles/leetcode_CPP.dir/main.cpp.o: CXX_COMPILER__leetcode_CPP_unscanned_Debug /Users/timmiao/leetcode_CPP/main.cpp || cmake_object_order_depends_target_leetcode_CPP
   CONFIG = Debug
   DEP_FILE = CMakeFiles/leetcode_CPP.dir/main.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/leetcode_CPP.dir
   OBJECT_FILE_DIR = CMakeFiles/leetcode_CPP.dir
   TARGET_COMPILE_PDB = CMakeFiles/leetcode_CPP.dir/
@@ -68,7 +68,7 @@ build CMakeFiles/leetcode_CPP.dir/main.cpp.o: CXX_COMPILER__leetcode_CPP_unscann
 
 build leetcode_CPP: CXX_EXECUTABLE_LINKER__leetcode_CPP_Debug CMakeFiles/leetcode_CPP.dir/main.cpp.o
   CONFIG = Debug
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk
+  FLAGS = -g -arch arm64
   LINK_FLAGS = -Wl,-search_paths_first -Wl,-headerpad_max_install_names
   OBJECT_DIR = CMakeFiles/leetcode_CPP.dir
   POST_BUILD = :

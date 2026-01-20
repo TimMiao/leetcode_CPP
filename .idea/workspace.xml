@@ -23,10 +23,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ca84cdc-86ac-4153-8205-db866c1542d7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-    </list>
+    <list default="true" id="3ca84cdc-86ac-4153-8205-db866c1542d7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +35,9 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="xkES1Nzs" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -115,7 +115,7 @@
       <workItem from="1752873825115" duration="4000" />
       <workItem from="1752882060742" duration="2000" />
       <workItem from="1752882106008" duration="1164000" />
-      <workItem from="1768882584044" duration="2000" />
+      <workItem from="1768882584044" duration="37000" />
     </task>
     <servers />
   </component>
